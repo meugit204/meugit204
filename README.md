@@ -1,3 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+sou+Desenvolvedor+web)](https://git.io/typing-svg)
+<!-- My Name -->
+<h1 align="center">hello word 👋, Me chamo Ricardo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<!-- Typing -->
+<p  align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Tecnologia+em+Desenvolvimento+Web" alt="Typing SVG" /></a>
+</p>
+<br>
