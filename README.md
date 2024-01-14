@@ -9,7 +9,7 @@
 
 ## 🚀  Languages, Frameworks, Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,python,nodejs,javascript,jquery,react,angular,figma,scss,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,python,nodejs,javascript,vue,mysql,typescript,markdown,jquery,react,angular,figma,scss,github)](https://skillicons.dev)
 
 ## 📱 Contact
 
